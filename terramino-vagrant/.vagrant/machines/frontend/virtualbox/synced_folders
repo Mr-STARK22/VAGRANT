@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/terramino-go":{"create":true,"guestpath":"/home/vagrant/terramino-go","hostpath":"/home/vannaboth/Documents/Vagrant/terramino-vagrant/frontend/terramino-go","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/vannaboth/Documents/Vagrant/terramino-vagrant","disabled":false,"__vagrantfile":true}}}
